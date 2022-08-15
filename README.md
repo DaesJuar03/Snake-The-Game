@@ -1,2 +1,21 @@
-# Snake-The-Game
-Snake The Game es el juego clasico de la serpiente de los nokias, usando HTML, JavaScript, canvas y CSS, creado como ejercicio a base del video de programando un juego de la serpiente (No lo encuentro XD)
+# Javascript Snake Game
+## old-school snake game.
+
+# SNAKE THE GAME
+ 
+## Features
+
+- Local 
+- En el futuro espero poder implementar un modo multijugador
+ 
+## Uso e Instalacion
+
+Snake The game from web necesita JavaScript [Node.js](https://nodejs.org/) v12+... para correr bien.
+ 
+## Licencia: 
+
+DAESJUARLOPEZ2003
+
+## Software Libre de uso ##
+
+
